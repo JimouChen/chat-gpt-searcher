@@ -1,0 +1,16 @@
+{
+  "breakpoint": {
+    "is_finished": false,
+    "item_bp": 0,
+    "question": ""
+  },
+  "path": {
+    "log": "./logs/search.log",
+    "prompt": "./data/prompt/prompt.xlsx",
+    "answer": "./data/answer/answer.json",
+    "response": "./data/answer/response.xlsx"
+  },
+  "api_key": [
+    "sk-xxx"
+  ]
+}
