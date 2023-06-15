@@ -2,15 +2,23 @@
   "breakpoint": {
     "is_finished": false,
     "item_bp": 0,
-    "question": ""
+    "question": "",
+    "mt_is_finished": false,
+    "mt_item_bp": 0,
+    "mt_question": ""
   },
   "path": {
     "log": "./logs/search.log",
     "prompt": "./data/prompt/prompt.xlsx",
     "answer": "./data/answer/answer.json",
-    "response": "./data/answer/response.xlsx"
+    "response": "./data/answer/response.xlsx",
+    "mt_log": "./logs/mt_search.log",
+    "mt_prompt": "./data/prompt/multi_prompt.xlsx",
+    "mt_answer": "./data/answer/answer_multi.json",
+    "mt_response": "./data/answer/response_mt_res.xlsx"
   },
   "api_key": [
     "sk-xxx"
-  ]
+  ],
+  "private_key": "xxx"
 }
